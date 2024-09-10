@@ -72,6 +72,12 @@ section button {
     border-radius: 0.6rem; /* Borda arredondada */
 }
 
+#resultados_pesquisa {
+
+    
+    
+}
+
 /* Estiliza cada item de resultado */
 .item-resultado {
     height: 100%;
