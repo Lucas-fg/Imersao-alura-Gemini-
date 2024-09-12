@@ -1,8 +1,8 @@
 let dados = [
     {
-        titulo: "Programação",
-        descricao: "Nosso software pare ajudar usuarios com questões relacionadas ao vício digital",
-        participar: "Download"
+        titulo: "Programas",
+        descricao: "Nossa programação para ajudar usuarios com questões relacionadas ao vício digital",
+        participar: "Conheça"
 
     },
 
